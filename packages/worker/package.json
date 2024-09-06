@@ -8,11 +8,11 @@
   },
   "dependencies": {
     "@azure/functions": "^1.2.3",
-    "@hint/configuration-all": "^2.0.12",
-    "@hint/utils": "^7.0.10",
+    "@hint/configuration-all": "^3.0.17",
+    "@hint/utils": "^7.0.24",
     "@online-service/utils": "file:../utils",
     "lodash": "^4.17.21",
-    "hint": "^6.1.4"
+    "hint": "^7.1.13"
   },
   "devDependencies": {
     "@hint/utils-types": "^1.1.3",
