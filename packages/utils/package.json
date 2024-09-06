@@ -8,8 +8,8 @@
   },
   "dependencies": {
     "@destinationstransfers/ntp": "^2.0.0",
-    "@octokit/rest": "^18.7.2",
-    "applicationinsights": "^2.1.4",
+    "@octokit/rest": "^19.0.5",
+    "applicationinsights": "^3.0.0",
     "azure-sb": "^0.11.2",
     "debug": "^4.3.2",
     "mongodb-lock": "^1.0.1",
