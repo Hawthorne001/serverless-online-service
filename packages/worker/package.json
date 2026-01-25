@@ -11,7 +11,7 @@
     "@hint/configuration-all": "^2.0.12",
     "@hint/utils": "^7.0.10",
     "@online-service/utils": "file:../utils",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "hint": "^6.1.4"
   },
   "devDependencies": {
